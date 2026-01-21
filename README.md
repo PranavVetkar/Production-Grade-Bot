@@ -14,15 +14,15 @@ This project demonstrates how individual trading components come together to for
 
 ## 🧠 System Overview
 Binance WebSocket
-↓
+->
 Live Streamer (Async)
-↓
+->
 Trading Brain (Indicators + Logic)
-↓
+->
 Risk Manager (Stop-Loss)
-↓
+->
 Trade Logger (SQLite)
-↓
+->
 Streamlit Dashboard (Monitoring)
 
 ---
